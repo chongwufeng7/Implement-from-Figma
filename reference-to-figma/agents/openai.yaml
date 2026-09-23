@@ -1,0 +1,4 @@
+interface:
+  display_name: "参考图还原 Figma · 清晰图标版"
+  short_description: "保留参考图风格，还原可编辑 Figma，检查图标平滑度与视觉差异"
+  default_prompt: "使用 $reference-to-figma 将这张参考图还原为可编辑 Figma，先识别局部风格，确保图标形状准确、边缘整齐清晰，并导出实际渲染进行对比验收。"

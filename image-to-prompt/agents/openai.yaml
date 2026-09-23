@@ -1,0 +1,4 @@
+interface:
+  display_name: "识图反推提示词"
+  short_description: "深度拆解参考图的主体、构图、光色与质感，输出完整反推及可直接生图的提示词"
+  default_prompt: "使用 $image-to-prompt 分析我提供的参考图，依次完成深度视觉拆解、完整提示词反推和可直接生图的优化版，尽可能还原原图的氛围、风格与质感。"
